@@ -1,5 +1,5 @@
 # drgstrflix-moviedb
- movie db for watching movies free online
+ PHP/HTML movie db for watching movies free online
 
 Upload to your webhost
 

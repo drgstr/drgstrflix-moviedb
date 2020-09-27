@@ -8,3 +8,4 @@ add your mysql database info to db.php and
 -/members/register.php
 -/members/activate.php
 -/members/authenticate.php
+![GitHub Logo](/drgstrflix.png)
